@@ -17,3 +17,10 @@ Input Text: Provide raw text (e.g., amazon reviews) for sentiment classification
 Tokenization: The text is tokenized using the pre-trained tokenizer to prepare it for the model.
 
 Prediction: The pre-trained RoBERTa model processes the tokenized input and classifies the sentiment.
+
+
+## Acknowledgments
+The notebook uses the Cardiff NLP Twitter RoBERTa model available on Hugging Face Model Hub.
+
+Built with the Hugging Face Transformers library.
+
